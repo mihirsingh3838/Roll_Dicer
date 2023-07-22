@@ -12,7 +12,7 @@ In case someone wants to run this app they should follow the given steps
 4. Select your emulator device.
 5. Run the shortcut (CTRl+F5) in order to run without debugging your application.
 
-##Screenshots
+## Screenshots
 
 ![image](https://github.com/mihirsingh3838/Roll_Dicer/assets/65151332/2ee4d511-8b2f-45e1-b000-564b9def38f6)
 ![image](https://github.com/mihirsingh3838/Roll_Dicer/assets/65151332/afa6ef62-7b4b-40a5-b5b6-535cac225818)
